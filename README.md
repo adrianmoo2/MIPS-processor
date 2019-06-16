@@ -1,12 +1,11 @@
-# *Project title*
+# MIPS-processor
 
-*Short description of your project, in one or two sentences.* 
+Implementaiton of the Single Cycle [MIPS Processor](https://i.imgur.com/6R3Xz.png) in Verilog using the Xilinx ISE.
 
 ## Languages / Frameworks used
 
-* Adrian
-* Adrianblahblah
-* Adrianbloohblahblooey
+* Verilog
+* 
 
 ## Purpose / Goals
 
