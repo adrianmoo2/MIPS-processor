@@ -18,6 +18,7 @@ Implementaiton of the Single Cycle [MIPS Processor](https://i.imgur.com/6R3Xz.pn
 * Mac OS X
 * Ubuntu
 * Windows (if applicable)
+* [Xilinx ISE Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html)
 
 ### Getting started
 
