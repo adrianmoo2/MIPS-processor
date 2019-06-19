@@ -37,7 +37,7 @@ Implementaiton of the Single Cycle [MIPS Processor](https://i.imgur.com/6R3Xz.pn
 
 ## Team
 
-* *Name, Organization - role or tasks worked on*
+* Adrian Tran
 
 *Add a "contributors" section if you've incorporated pull requests.*
 
