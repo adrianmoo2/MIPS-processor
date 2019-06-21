@@ -44,7 +44,7 @@ Implementaiton of the Single Cycle [MIPS Processor](https://i.imgur.com/6R3Xz.pn
 ## Errors and bugs
 
 If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
+Report it here by creating an issue: https://github.com/adrianmoo2/MIPS-processor/issues
 
 Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
 
