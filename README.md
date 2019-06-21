@@ -58,4 +58,4 @@ Your patches are welcome. Here's our suggested workflow:
 
 ## Copyright and attribution
 
-Copyright (c) 2019 Adrian Tran. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
+Copyright (c) 2019 Adrian Tran. Released under the [MIT License](https://github.com/adrianmoo2/MIPS-processor/blob/master/LICENSE).
